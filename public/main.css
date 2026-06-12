@@ -63,3 +63,13 @@ div{
     align-self: center;
     color: rgb(0, 83, 86);
 }
+section{
+    margin-top: 7vw;
+    align-content: center;
+    align-self: center;
+}
+button{
+    margin-top: 4vw;
+    align-self: center;
+    width: 10vw;
+}
